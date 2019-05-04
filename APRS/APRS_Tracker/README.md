@@ -1,5 +1,5 @@
-#APRS Tracker
-##aprstracker-x.xx について
+#APRS Tracker  
+##aprstracker-x.xx について  
 APRS Tracker のGNUライセンスに基づくコピー  
 原作者: Jeroen Vreeken (PE1RXQ), Arno Verhoeven (PE1ICQ)  
 
